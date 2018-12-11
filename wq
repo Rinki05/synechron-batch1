@@ -1,0 +1,59 @@
+[33mcommit 75a6ed2a11d8fc9fe2ebb005c24388d73d634c13[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Rinki Kumari <rinki.kumari@synechron.com>
+Date:   Tue Dec 11 11:51:06 2018 +0530
+
+    fourth comit by me
+
+[1mdiff --git a/file4 b/file4[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit d88bcb35d72a1c4e578148d8096f37c5342d75ae[m
+Author: Rinki Kumari <rinki.kumari@synechron.com>
+Date:   Tue Dec 11 11:49:41 2018 +0530
+
+    third comit by me
+
+[1mdiff --git a/file1 b/file1[m
+[1mindex e69de29..f7b775a 100644[m
+[1m--- a/file1[m
+[1m+++ b/file1[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32msomthing is changed[m
+[32m+[m
+
+[33mcommit f0b690bd565d8c2b3c895bb470756e487b198196[m
+Author: Rinki Kumari <rinki.kumari@synechron.com>
+Date:   Tue Dec 11 11:44:50 2018 +0530
+
+    second comit by me
+
+[1mdiff --git a/file2 b/file2[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/file3 b/file3[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit f38b5aedaea3c7b254cc30e2cff78cbec563b88d[m
+Author: Rinki Kumari <rinki.kumari@synechron.com>
+Date:   Tue Dec 11 11:40:22 2018 +0530
+
+    first comit by me
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e84b493[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1,7 @@[m
+[32m+[m
+[32m+[m[32m**/* .jar[m
+[32m+[m[32mabc.jar[m
+[32m+[m[32mtarget/*[m
+[32m+[m
+[32m+[m
+[32m+[m
+[1mdiff --git a/file1 b/file1[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
